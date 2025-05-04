@@ -177,13 +177,13 @@
     "gitDecoration.addedResourceForeground": "#228B22",
     "gitDecoration.conflictingResourceForeground": "#C62828",
     "gitDecoration.deletedResourceForeground": "#C62828",
-    "gitDecoration.ignoredResourceForeground": "#99999970", // Medium grey with opacity
+    "gitDecoration.ignoredResourceForeground": "#99999970",
     "gitDecoration.modifiedResourceForeground": "#007ACC",
     "gitDecoration.renamedResourceForeground": "#00AEEF",
     "gitDecoration.stageDeletedResourceForeground": "#C62828",
     "gitDecoration.stageModifiedResourceForeground": "#007ACC",
     "gitDecoration.submoduleResourceForeground": "#00AEEF",
-    "gitDecoration.untrackedResourceForeground": "#00AEEF",
+    "gitDecoration.untrackedResourceForeground": "#228B22",
     "icon.foreground": "#444444",
     "input.background": "#EEEEEE", // Very light grey input background
     "input.border": "#CCCCCC",
