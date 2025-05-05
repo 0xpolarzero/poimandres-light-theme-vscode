@@ -199,20 +199,20 @@
     "inputValidation.infoBorder": "#00AEEF",
     "inputValidation.warningBackground": "#E0E0E0",
     "inputValidation.warningBorder": "#FFA000",
-    "list.activeSelectionBackground": "#EEEEEE", // Very light grey
+    "list.activeSelectionBackground": "#007ACC25", // Blue with opacity
     "list.activeSelectionForeground": "#000000", // Black
     "list.deemphasizedForeground": "#999999", // Medium grey
     "list.dropBackground": "#CCCCCC", // Light grey
     "list.errorForeground": "#C62828",
     "list.filterMatchBackground": "#00AEEF60", // Cyan with opacity
-    "list.focusBackground": "#EEEEEE",
-    "list.focusForeground": "#444444",
+    "list.focusBackground": "#007ACC15", // Blue with opacity
+    "list.focusForeground": "#000000", // Black
     "list.focusOutline": "#00000000",
     "list.highlightForeground": "#228B22",
-    "list.hoverBackground": "#EEEEEE",
-    "list.hoverForeground": "#000000",
-    "list.inactiveSelectionBackground": "#EEEEEE",
-    "list.inactiveSelectionForeground": "#000000",
+    "list.hoverBackground": "#007ACC15", // Blue with opacity
+    "list.hoverForeground": "#000000", // Black
+    "list.inactiveSelectionBackground": "#007ACC25", // Blue with opacity
+    "list.inactiveSelectionForeground": "#000000", // Black
     "list.invalidItemForeground": "#FFA000",
     "list.warningForeground": "#FFA000",
     "listFilterWidget.background": "#E0E0E0",
@@ -283,7 +283,7 @@
     "peekViewResult.fileForeground": "#000000",
     "peekViewResult.lineForeground": "#444444",
     "peekViewResult.matchHighlightBackground": "#E0E0E0",
-    "peekViewResult.selectionBackground": "#007ACC25",
+    "peekViewResult.selectionBackground": "#007ACC25", // Blue with opacity
     "peekViewResult.selectionForeground": "#000000",
     "peekViewTitle.background": "#44444405",
     "peekViewTitleDescription.foreground": "#44444460",
@@ -296,7 +296,7 @@
     "progressBar.background": "#00AEEF",
     "quickInput.background": "#FFFFFF",
     "quickInput.foreground": "#444444",
-    "quickInputList.focusBackground": "#44444410", // Dark grey with opacity
+    "quickInputList.focusBackground": "#007ACC10", // Blue with opacity
     "quickInputTitle.background": "#0000001b", // Black with opacity
     "sash.hoverBorder": "#00000000",
     "scrollbar.shadow": "#00000000",
@@ -305,7 +305,7 @@
     "scrollbarSlider.hoverBackground": "#44444425",
     "searchEditor.findMatchBackground": "#007ACC50",
     "searchEditor.textInputBorder": "#CCCCCC",
-    "selection.background": "#444444", // Dark grey selection
+    "selection.background": "#007ACC40", // Blue with opacity
     "settings.checkboxBackground": "#FFFFFF",
     "settings.checkboxBorder": "#CCCCCC",
     "settings.checkboxForeground": "#444444",
@@ -313,7 +313,7 @@
     "settings.dropdownBorder": "#CCCCCC",
     "settings.dropdownForeground": "#444444",
     "settings.dropdownListBorder": "#44444410",
-    "settings.focusedRowBackground": "#00000000",
+    "settings.focusedRowBackground": "#007ACC10", // Blue with opacity
     "settings.headerForeground": "#000000",
     "settings.modifiedItemIndicator": "#007ACC",
     "settings.numberInputBackground": "#EEEEEE",
@@ -1069,18 +1069,10 @@
     },
     {
       "scope": [
-        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
         "foreground": "#666666"
-      }
-    },
-    {
-      "scope": [
-        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
-      ],
-      "settings": {
-        "foreground": "#000000"
       }
     },
     {
